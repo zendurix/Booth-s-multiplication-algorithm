@@ -7,4 +7,3 @@ BOOTH'S ALGORITHM
 - result of multiplication is shown in both U2 and decimal
 
 
-made by Michał Majda
